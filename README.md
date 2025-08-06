@@ -7,6 +7,8 @@ A comprehensive agentic video analysis system that uses real AI vision models to
 
 This project implements an intelligent video analysis assistant that combines computer vision, object detection, and large language models to provide conversational insights about video content. Unlike traditional hardcoded video analysis tools, this system uses real AI vision models to dynamically analyze activities like eating, sports, cooking, reading, and more.
 
+link :- https://drive.google.com/drive/folders/1Xl2LaNd110_Wc_Px-L4mHUODup2F4fhj?usp=sharing
+
 ### Key Features
 
 - 🎥 Real AI Vision Analysis: Uses Transformers, Ollama Vision (llava), or OpenAI GPT-4 Vision for dynamic activity recognition
