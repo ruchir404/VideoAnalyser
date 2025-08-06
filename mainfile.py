@@ -2466,7 +2466,7 @@ if __name__ == "__main__":
     print("🚀 No more hardcoded responses - activities analyzed dynamically!")
     print("="*70)
     
-    # Run the enhanced application
+    # Run the enhanced applications
     try:
         asyncio.run(main())
     except KeyboardInterrupt:
